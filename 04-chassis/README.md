@@ -5,6 +5,7 @@ Documentation for the Rumble-Bot chassis
 ## Directory Contents
 
 * **calibrate-servo**: Contains Arduino IDE `.ino` file for servo calibration
+* **documentation**: Contains `.pdf` documentation files
 * [README.md](README.md): This document
 
 ## Install Arduino

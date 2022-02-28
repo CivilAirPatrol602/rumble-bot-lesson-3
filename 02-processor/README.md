@@ -7,6 +7,7 @@ The microcontroller PCB for Ardustack, a through-hole Arduino stack
 * **3d-models**: Contains component `.stp` files for import
 * **components**: Contains component `.lib` files for import
 * **datasheets**: Contains component datasheets
+* **documentation**: Contains `.pdf` documentation files
 * **footprints**: Contains component `.kicad_mod` files for import
 * **gerbers**: Contains the most recent set of Gerber files
 * **kicad**: Contains the KiCad project files
